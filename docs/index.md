@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+Password -Generator
+This application emphasizes the use of Javascript to generate a random, secure password for the user.
 
-You can use the [editor on GitHub](https://github.com/Preranashukla/Assignment3/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+This project has been deployed to GitHub Pages. To get this project up and running, you can follow the deployment link. Or, download the sources files to use this as a template.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Gentting Strated
+Git Hub Repository
+* [ Demo Video ](https://drive.google.com/file/d/18wr5qb5-fHkZ23mrRKRaWvY70-hAn0i6/view)
+Deloped link
 
-### Markdown
+Prerequisites
+To install this application, you will need a text editor. I recommend Visual Studio Code.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Installing
+To install this code, download the zip file, or use GitHub's guidelines to clone the repository.
 
-```markdown
-Syntax highlighted code block
+Summary
+HTML and CSS and Javascript documents create a random password generator
+This project emphasizes the use of using Javascript to make dynamic changes to an HMTL document.
 
-# Header 1
-## Header 2
-### Header 3
+![](./assets/demo.png)
+* A generate button
+    * This will send the user a series of prompts and confirms
+    * After user data is collected, a random password will be generated using Javascript
 
-- Bulleted
-- List
+![](./Assets/pass.PNG)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Preranashukla/Assignment3/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
