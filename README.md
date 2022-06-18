@@ -3,7 +3,7 @@
 
 * This project has been deployed to GitHub Pages. To get this project up and running, you can follow the deployment link. Or, download the sources files to use this as a template.
 
-* Gentting Strated
+## Gentting Strated
 * [Git Hub Repository](https://github.com/Preranashukla/Assignment3.git)
 * [ Demo Video ](https://drive.google.com/file/d/18wr5qb5-fHkZ23mrRKRaWvY70-hAn0i6/view)
 * [Deloped link](https://preranashukla.github.io/Assignment3/)
