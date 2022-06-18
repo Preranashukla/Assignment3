@@ -6,7 +6,7 @@ This project has been deployed to GitHub Pages. To get this project up and runni
 Gentting Strated
 Git Hub Repository
 * [ Demo Video ](https://drive.google.com/file/d/18wr5qb5-fHkZ23mrRKRaWvY70-hAn0i6/view)
-[Deloped link](https://preranashukla.github.io/Assignment3/)
+* [Deloped link](https://preranashukla.github.io/Assignment3/)
 
 Prerequisites
 To install this application, you will need a text editor. I recommend Visual Studio Code.
